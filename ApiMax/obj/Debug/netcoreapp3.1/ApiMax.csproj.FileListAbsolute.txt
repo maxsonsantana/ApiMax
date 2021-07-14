@@ -88,6 +88,12 @@ C:\CMDER\CODE\NET\ApiMax\ApiMax\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysi
 C:\CMDER\CODE\NET\ApiMax\ApiMax\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\CMDER\CODE\NET\ApiMax\ApiMax\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\CMDER\CODE\NET\ApiMax\ApiMax\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\CMDER\CODE\NET\ApiMax\ApiMax\obj\Debug\netcoreapp3.1\ApiMax.MvcApplicationPartsAssemblyInfo.cache
 C:\CMDER\CODE\NET\ApiMax\ApiMax\obj\Debug\netcoreapp3.1\ApiMax.csproj.CopyComplete
 C:\CMDER\CODE\NET\ApiMax\ApiMax\bin\Debug\netcoreapp3.1\ApiMax.xml
+C:\CMDER\CODE\NET\ApiMax\ApiMax\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\CMDER\CODE\NET\ApiMax\ApiMax\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\CMDER\CODE\NET\ApiMax\ApiMax\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CMDER\CODE\NET\ApiMax\ApiMax\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CMDER\CODE\NET\ApiMax\ApiMax\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\CMDER\CODE\NET\ApiMax\ApiMax\obj\Debug\netcoreapp3.1\ApiMax.MvcApplicationPartsAssemblyInfo.cs
+C:\CMDER\CODE\NET\ApiMax\ApiMax\obj\Debug\netcoreapp3.1\ApiMax.MvcApplicationPartsAssemblyInfo.cache
